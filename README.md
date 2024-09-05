@@ -1,0 +1,2 @@
+# sshBruta
+Simple ssh bruteforcer
